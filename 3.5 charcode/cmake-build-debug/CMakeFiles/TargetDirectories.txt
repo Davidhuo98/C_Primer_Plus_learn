@@ -1,0 +1,3 @@
+C:/Users/WOOKING/Desktop/3.5 charcode/cmake-build-debug/CMakeFiles/3_5_charcode.dir
+C:/Users/WOOKING/Desktop/3.5 charcode/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/WOOKING/Desktop/3.5 charcode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
