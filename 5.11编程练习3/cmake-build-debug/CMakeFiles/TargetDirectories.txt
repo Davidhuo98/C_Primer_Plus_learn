@@ -1,0 +1,3 @@
+/home/WOOKING/Desktop/5.11编程练习3/cmake-build-debug/CMakeFiles/5_113.dir
+/home/WOOKING/Desktop/5.11编程练习3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/WOOKING/Desktop/5.11编程练习3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
