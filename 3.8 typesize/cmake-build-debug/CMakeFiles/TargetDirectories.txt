@@ -1,0 +1,3 @@
+C:/Users/WOOKING/Desktop/3.8 typesize/cmake-build-debug/CMakeFiles/3_8_typesize.dir
+C:/Users/WOOKING/Desktop/3.8 typesize/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/WOOKING/Desktop/3.8 typesize/cmake-build-debug/CMakeFiles/rebuild_cache.dir
