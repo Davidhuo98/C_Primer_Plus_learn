@@ -1,0 +1,3 @@
+C:/Users/WOOKING/Desktop/我的C语言文件/5.13addemup.c程序/cmake-build-debug/CMakeFiles/5_13addemup_c.dir
+C:/Users/WOOKING/Desktop/我的C语言文件/5.13addemup.c程序/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/WOOKING/Desktop/我的C语言文件/5.13addemup.c程序/cmake-build-debug/CMakeFiles/rebuild_cache.dir
