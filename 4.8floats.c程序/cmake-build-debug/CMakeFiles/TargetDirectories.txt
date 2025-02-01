@@ -1,0 +1,3 @@
+C:/Users/WOOKING/Desktop/4.8floats.c程序/cmake-build-debug/CMakeFiles/4_8floats_c.dir
+C:/Users/WOOKING/Desktop/4.8floats.c程序/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/WOOKING/Desktop/4.8floats.c程序/cmake-build-debug/CMakeFiles/rebuild_cache.dir
