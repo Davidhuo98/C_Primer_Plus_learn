@@ -1,0 +1,3 @@
+/home/WOOKING/Desktop/5.1shoes1.c程序/cmake-build-debug/CMakeFiles/5_1shoes1_c.dir
+/home/WOOKING/Desktop/5.1shoes1.c程序/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/WOOKING/Desktop/5.1shoes1.c程序/cmake-build-debug/CMakeFiles/rebuild_cache.dir
