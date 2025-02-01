@@ -1,0 +1,3 @@
+/home/WOOKING/Desktop/6.13postage.c程序/cmake-build-debug/CMakeFiles/6_13postage_c.dir
+/home/WOOKING/Desktop/6.13postage.c程序/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/WOOKING/Desktop/6.13postage.c程序/cmake-build-debug/CMakeFiles/rebuild_cache.dir
