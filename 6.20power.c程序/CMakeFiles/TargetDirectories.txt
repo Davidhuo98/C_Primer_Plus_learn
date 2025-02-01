@@ -1,0 +1,3 @@
+/media/huo/HDD/我的C语言文件/6.20power.c程序/CMakeFiles/6_20power_c.dir
+/media/huo/HDD/我的C语言文件/6.20power.c程序/CMakeFiles/edit_cache.dir
+/media/huo/HDD/我的C语言文件/6.20power.c程序/CMakeFiles/rebuild_cache.dir

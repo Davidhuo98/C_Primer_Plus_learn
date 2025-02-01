@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/6_20power_c.dir/main.cpp.o -o 6_20power_c
