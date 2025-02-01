@@ -1,0 +1,3 @@
+C:/Users/WOOKING/Desktop/5.16 running.c程序/cmake-build-debug/CMakeFiles/5_16_running_c.dir
+C:/Users/WOOKING/Desktop/5.16 running.c程序/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/WOOKING/Desktop/5.16 running.c程序/cmake-build-debug/CMakeFiles/rebuild_cache.dir

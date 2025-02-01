@@ -1,0 +1,1 @@
+在 /home/WOOKING/Desktop/6.2 when.c程序 中找不到 CMakeLists.txt 选择 CMakeLists.txt

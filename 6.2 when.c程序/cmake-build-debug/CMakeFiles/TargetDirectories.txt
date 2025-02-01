@@ -1,0 +1,3 @@
+/home/WOOKING/Desktop/6.2 when.c程序/cmake-build-debug/CMakeFiles/6_2_when_c.dir
+/home/WOOKING/Desktop/6.2 when.c程序/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/WOOKING/Desktop/6.2 when.c程序/cmake-build-debug/CMakeFiles/rebuild_cache.dir
