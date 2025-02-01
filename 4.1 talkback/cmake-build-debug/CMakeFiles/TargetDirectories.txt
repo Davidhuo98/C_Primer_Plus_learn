@@ -1,0 +1,3 @@
+C:/Users/WOOKING/Desktop/4.1 talkback/cmake-build-debug/CMakeFiles/4_1_talkback.dir
+C:/Users/WOOKING/Desktop/4.1 talkback/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/WOOKING/Desktop/4.1 talkback/cmake-build-debug/CMakeFiles/rebuild_cache.dir

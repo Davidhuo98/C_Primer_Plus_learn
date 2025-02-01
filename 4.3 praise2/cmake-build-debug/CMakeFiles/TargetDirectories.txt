@@ -1,0 +1,3 @@
+C:/Users/WOOKING/Desktop/4.3 praise2/cmake-build-debug/CMakeFiles/4_3_praise2.dir
+C:/Users/WOOKING/Desktop/4.3 praise2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/WOOKING/Desktop/4.3 praise2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
